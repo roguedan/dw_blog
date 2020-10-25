@@ -1,13 +1,11 @@
 ---
 title: 'Open Banking in Australia: Hesitation Equals Failure'
-date: 2020-03-14T15:40:24.000+06:00
+date: 2017-08-14T14:00:00+00:00
 image: images/banking.jpeg
 author:
 - Dan Williams
 categories: []
-tags:
-- work
-- day
+tags: []
 description: This is meta description
 
 ---
