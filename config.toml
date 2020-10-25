@@ -13,10 +13,6 @@ unsafe = true
 [[menu.main]]
 URL = "sample-page"
 name = "Sample Page"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
 weight = 4
 [[menu.main]]
 URL = "blog"
