@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Thoughts, ideas and my work"
 image = ""
 [params.blog]
 heading = "Hi I'm Dan Williams, welcome to my blog. "
