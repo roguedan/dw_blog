@@ -1,7 +1,7 @@
 ---
 title: Uninstalling the Malware of Bureaucracy
 date: 2020-04-28T10:40:24+00:00
-image: images/2020-three-quarters-2.png
+image: images/malware.png
 author:
 - Dan
 categories: []
