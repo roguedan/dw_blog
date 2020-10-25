@@ -10,10 +10,6 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Dan Williams"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-URL = "/blog"
-name = "Blog"
-weight = 1
 [[menu.main]]
 URL = "blog"
 name = "Blog"
