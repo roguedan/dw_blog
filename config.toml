@@ -11,9 +11,9 @@ title = "Dan Williams"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-URL = "contact"
-name = "Contact"
-weight = 1
+URL = "/blog"
+name = "Blog"
+weight = ""
 [[menu.main]]
 URL = "/"
 name = "Home"
@@ -26,14 +26,6 @@ weight = 2
 URL = "blog"
 name = "Blog"
 weight = 3
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
