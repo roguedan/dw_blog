@@ -10,18 +10,22 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Dan Williams"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-URL = "blog"
+[[menu.desktop]]
+URL = "/blog"
 name = "Blog"
-weight = 3
+weight = ""
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -31,7 +35,7 @@ description = "This is meta description"
 heading = "The New UMoMA Opens its Doors"
 image = ""
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "Hi I'm Dan Williams, welcome to my blog. "
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
