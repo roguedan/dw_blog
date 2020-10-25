@@ -10,22 +10,30 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Twenty Twenty Hugo for Forestry"
 [markup.goldmark.renderer]
 unsafe = true
+[[menu.desktop]]
+URL = "contact"
+name = "Contact"
+weight = 1
 [[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[[menu.main]]
+URL = "sample-page"
+name = "Sample Page"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -49,7 +57,7 @@ copyright = "Copyright &copy; 2020 Dan Williams"
 hours = ""
 title = "About This Site"
 [params.gallery]
-enable = true
+enable = false
 [[params.gallery.gallery_item]]
 image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
