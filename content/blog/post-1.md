@@ -60,3 +60,63 @@ The report also highlights that fintechs earn high marks when it comes to custom
 As Pietro Sella, CEO of Banca Sella and longtime open banking advocate, rightly says banking is at a similar inflection point to that of the telecoms sector a few years ago:
 
 > _“ Think about WhatsApp and similar services. When they took control of the contact list on smartphones, they took the entire SMS market from the telcos. The mistake the telcos made was to not move forward in a legacy area; to not create the synergies that are possible when everyone has the same kind of platform or solution. Banks could cooperate in order to save costs in areas where there is no longer competitive advantage and to create platforms that let them compete in new areas and capture new customers.”_
+
+While Australian consumer demand for and openness to using fintech offerings is currently relatively low compared to the US, UK, HK and Singapore, there is no doubt that Australians’ receptiveness to digital banking solutions is growing and will be underpinned by millennials’ appetite for simple, high-convenience banking.
+
+The Australian FS sector as a whole should and will be able to compete globally in the future. Australia has fantastic fintechs and the sector is largely optimistic about the future. It remains to be seen how remaining challenges around talent, capital, regulation and government policy will unfold and if Australia will rise to the challenge and make the most of its competitive advantages to become a true global fintech leader.
+
+Fintechs are unquestionably changing the landscape and Australia’s fintech ecosystem is growing rapidly, with over 350 companies dominating the space. Startups like [**Spaceship**](https://www.spaceship.com.au/), [**Tyro**](https://www.tyro.com/), [**Finch**](http://www.finch.me/), [**CoinJar**](https://www.coinjar.com/) and [**ANX International**](https://anxintl.com/) (an Australian startup based in HK) are set to challenge Australia’s banking, capital markets and superannuation industries.
+
+Partnerships such as the one recently signed between the CBA and Austrade to support the flow of fintech innovation between Australia and the UK, the Comm Bank’s Innovation Lab and NAB Lab’s incubator are all positive signs and should be encouraged.
+
+> However, bank engagement still remains a challenge for startups. Toby Gardner, Co-Founder of [**Finch**](http://www.finch.me/), an Australian fintech reimagining the consumer finance experience through a financial app for your social life, says that
+>
+> _“ the number one challenge to collaboration is the same: organisational structure, culture, and process. The banks’ existing structures are not designed to be efficient or effective in allocating resources towards startup collaboration, their culture still reveals a “we can do this better ourselves” attitude, and their partnership process is built for existing companies – who have the resources and time to wait 6-12 months before anything meaningful happens (or in most cases, not at all).”_
+
+Asher Tan, CEO of [**CoinJar**](https://www.coinjar.com/), points out that ”while Australian banks continue to struggle collaborating even with household names like Apple, there is evidence that some banks have worked with startups to drive internal efficiencies. Startups solving pain points like creating cost savings in back-office functions are most likely to succeed when working with the Big 4.
+
+Engagement can also happen through other avenues such as bank sponsored venture capital funds. However, startups who aim to bring objectively better benefits directly to consumers will likely struggle as their products will often come in direct competition with bank offerings.”
+
+**From FOMO to Acceptance**
+
+This begs the question of whether banks can indeed drive innovation and proactively self-disrupt. Dave Chapman, Co-Founder and COO of [**ANX International**](https://anxintl.com/) and MD of [**Octagon Strategy**](https://www.octfinancial.com/), two fintechs that operate in the blockchain technology space, thinks that:
+
+> _“ incumbents are generally moving from the FOMO stage to an acceptance stage. Instead of innovating out of a pure fear of missing out, they are now appreciating that FinTech is going to radically change the way they operate. This is proven by the increasing investment from the traditional players in the financial services field.”_
+
+However, he stresses that greater regulatory certainty would assist: “_Governments and regulators are already opening up the doors; the FinTech industry is now more connected with the regulators than it has been than ever before. It's mutually beneficial for both FinTech and regulators to collaborate and this is the first step to better understanding the needs and thus dedicating the appropriate resources._”
+
+According to Toby Gardner, “_banks are genuinely interested in innovation but they lack the talent, process, and culture to be successful and no one wants to admit it. Innovation is chaotic, messy and uncertain. It needs radically different tools for management, measurement and control as well as team dynamics and skill set. Banks are still convinced they can fit a round peg in a square hole. So did Kodak.”_
+
+Asher Tan of CoinJar believes that “_cultural elements in incumbents mean even though firms are genuinely interested in innovation, there is a lack of decision makers willing to commit time, energy, and their careers to make change happen. True innovation necessitates champions, be it individuals or companies, willing to take risks and have skin in the game. CoinJar is a great example of a company willing to explore a totally new field of finance, digital currency, in spite of intrinsic industry risk. We’ve managed to build numerous products and cater to loyal customers over the last four years while incumbents worry about the reputational risk of being associated with Bitcoin._”
+
+**Open banking: Threat or Catalyst?**
+
+According to the WRBR, “_with APIs acting as a bridge between systems, banks can gain much more value by viewing them in the big picture. While the customer data they own will enable banks to claim a central role in the evolving digitally connected ecosystem, **how large a role they occupy will be up to them**. As the new banking models play out, banks will have to make strategic choices about the specific roles they would like to take on in the future, and will need to frame their strategy accordingly_.”
+
+If banks decide to do nothing (or very little) with open banking, they risk becoming obsolete brands and transforming into mere utilities or ‘dumb pipes’. In addition to siloed cultures and lack of technology leadership on boards, one of the biggest issues for European banks has been building appropriate enterprise data architecture. Without the latter, banks will not be able to leverage consumer analytics, AI or other cutting edge technologies.
+
+Open banking invariably means embracing cloud-native design principles, DevOps ways of working, automated security and next generation surveillance technologies while also integrating these modern elements with older legacy banking platforms on the backend. Banks need to accept that decentralising their own product building efforts is a must in order to achieve an innovative application ecosystem.
+
+The advent of privacy and security legislation (such as the EU’s General Data Protection Regulation (GDPR) in May 2018 and Australia’s new mandatory data breach notification laws) will also help nudge banks in the right direction.
+
+References
+
+1- [https://www.raconteur.net/finance/upcoming-eu-directive-to-open-up-banking](https://www.raconteur.net/finance/upcoming-eu-directive-to-open-up-banking "https://www.raconteur.net/finance/upcoming-eu-directive-to-open-up-banking")
+
+2- [http://thefinanser.com/2015/04/why-fintech-banks-will-rule-the-world.html/](http://thefinanser.com/2015/04/why-fintech-banks-will-rule-the-world.html/ "http://thefinanser.com/2015/04/why-fintech-banks-will-rule-the-world.html/")
+
+3- [http://www.afr.com/technology/banks-resist-fintech-push-for-open-data-regime-20160816-gqthn0/](http://www.afr.com/technology/banks-resist-fintech-push-for-open-data-regime-20160816-gqthn0/ "http://www.afr.com/technology/banks-resist-fintech-push-for-open-data-regime-20160816-gqthn0/")
+
+4- [http://www.innovationaus.com/2017/07/Anna-Bligh-on-open-bank-data/](http://www.innovationaus.com/2017/07/Anna-Bligh-on-open-bank-data/ "http://www.innovationaus.com/2017/07/Anna-Bligh-on-open-bank-data/")
+
+5- [http://fortune.com/2017/01/11/google-facebook-amazon-banking/](http://fortune.com/2017/01/11/google-facebook-amazon-banking/ "http://fortune.com/2017/01/11/google-facebook-amazon-banking/")
+
+6- [http://www.afr.com/business/media-and-marketing/facebook-wins-australian-patent-for-messenger-payments-20170629-gx1qgk](http://www.afr.com/business/media-and-marketing/facebook-wins-australian-patent-for-messenger-payments-20170629-gx1qgk "http://www.afr.com/business/media-and-marketing/facebook-wins-australian-patent-for-messenger-payments-20170629-gx1qgk")
+
+7- [https://www.worldretailbankingreport.com/](https://www.worldretailbankingreport.com/ "https://www.worldretailbankingreport.com/")
+
+8- [https://thefinancialbrand.com/62278/banking-millennial-digital-mobile-marketing/](https://thefinancialbrand.com/62278/banking-millennial-digital-mobile-marketing/ "https://thefinancialbrand.com/62278/banking-millennial-digital-mobile-marketing/")
+
+9- EY Fintech Australia Census 2016.
+
+10- [https://www.worldretailbankingreport.com/rise-of-open-banking](https://www.worldretailbankingreport.com/rise-of-open-banking "https://www.worldretailbankingreport.com/rise-of-open-banking")
