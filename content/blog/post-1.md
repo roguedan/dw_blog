@@ -1,5 +1,5 @@
 ---
-title: Works and Days
+title: 'Open Banking in Australia: Hesitation Equals Failure'
 date: 2020-03-14T15:40:24.000+06:00
 image: images/banking.jpeg
 author:
