@@ -32,4 +32,4 @@ Those APIs will allow third parties to plug into the bank’s underlying service
 
 Tom Blomfield, CEO of UK challenger bank, Monzo, predicts that “the bank of the future will be a marketplace”. He rightly notes that open banking requires a huge shift in mindset and, much like the music industry’s tight control pre-iTunes, open banking pushes banks to become platform businesses.
 
-![](/images/openbanking_ecosystem.jpeg)
+![](/images/openbanking_ecosystem.jpeg "OpenBanking Ecosystem")
