@@ -1,11 +1,12 @@
 +++
-author = ["Dan Williams"]
-categories = []
+author = ["Dan"]
+categories = ["data", "GDPR"]
 date = 2017-06-14T23:00:00Z
 description = "‘The new European General Data Protection Protection Regulation (aka ‘GDPR’) brings to mind John Travolta’s conversation with Samuel L. Jackson in Pulp Fiction where Vincent (Travolta) muses to Jules (Jackson): \n\n“But you know what the funniest thing about Europe is?...It’s the little differences. A lotta the same **** we got here, they got there, but there they're a little different…”."
 image = "images/travolta_pulpfiction.jpg"
 tage = ["tags"]
-title = "They Call It a Royale with Cheese: What GDPR Means for Australia.-(copy)"
+tags = ["data", "GDPR"]
+title = "They Call It a Royale with Cheese: What GDPR Means for Australia."
 
 +++
 ‘The new **European General Data Protection Protection Regulation (aka ‘GDPR’)** brings to mind John Travolta’s conversation with Samuel L. Jackson in [**Pulp Fiction**](https://www.youtube.com/watch?v=ab7eVVG3I8s) where Vincent (Travolta) muses to Jules (Jackson):
