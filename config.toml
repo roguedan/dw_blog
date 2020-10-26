@@ -43,7 +43,7 @@ content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean comm
 enable = false
 title = "Contact us for more information."
 [params.footer]
-address = "Melbourne, Australia"
+address = ""
 content = "This may be a good place to introduce yourself and your site or include some credits."
 copyright = "Copyright &copy; 2020 Dan Williams"
 hours = ""
