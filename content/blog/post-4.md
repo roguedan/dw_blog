@@ -1,7 +1,7 @@
 ---
 title: Australian Enterprises - Are you a Transformation Skeptic or Digital Explorer?
 date: 2017-04-19T13:00:00+10:00
-image: images/innovation.png
+image: images/innovation.jpg
 author:
 - Dan Williams
 categories: []
