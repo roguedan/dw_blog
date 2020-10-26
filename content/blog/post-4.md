@@ -4,8 +4,10 @@ date: 2017-04-19T13:00:00+10:00
 image: images/innovation.jpg
 author:
 - Dan Williams
-categories: []
-tags: []
+categories:
+- innovation
+tags:
+- innovation
 description: Last week, Tesla has surpassed General Motors to become the most valuable
   US automaker, with a market capitalisation of $US50.9 billion. That’s despite the
   fact that Tesla is expected to lose more than US$950 million this year (while GM
