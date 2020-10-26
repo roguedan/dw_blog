@@ -60,7 +60,7 @@ facebook = ""
 instagram = ""
 linkedin = "https://www.linkedin.com/in/dtwilliams1/"
 twitter = ""
-yelp = ""
+yelp = "#"
 [taxonomies]
 author = "author"
 category = "categories"
