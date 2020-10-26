@@ -44,7 +44,7 @@ enable = false
 title = "Contact us for more information."
 [params.footer]
 address = ""
-content = "This may be a good place to introduce yourself and your site or include some credits."
+content = "These opinions are my own and not the views of my employers"
 copyright = "Copyright &copy; 2020 Dan Williams"
 hours = ""
 title = "About This Site"
