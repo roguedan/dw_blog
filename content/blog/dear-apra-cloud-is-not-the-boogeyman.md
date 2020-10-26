@@ -3,7 +3,6 @@ author = ["Dan Williams"]
 categories = ["Cloud", "APRA"]
 date = 2017-02-14T13:00:00Z
 description = "We’re experiencing a time of unprecedented growth in enterprise cloud adoption and yet some still regard the cloud as a cybersecurity boogeyman, conjuring up an image of evil, long-haired, goatee-sporting hackers gleefully rolling around in a bed full of ill-gotten data "
-draft = true
 image = "/images/boogeyman.jpg"
 tags = ["APRA", "Cloud"]
 title = "Dear APRA: Cloud is not the boogeyman"
