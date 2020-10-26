@@ -44,7 +44,7 @@ enable = false
 title = "Contact us for more information."
 [params.footer]
 address = ""
-content = "- Gary Hamel"
+content = "Gary Hamel"
 copyright = "Copyright &copy; 2020 Dan Williams"
 hours = ""
 title = "“In a world of commoditized knowledge, the returns go to the companies who can produce non-standard knowledge.”"
