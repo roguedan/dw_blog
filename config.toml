@@ -29,7 +29,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Dan Williams"
 description = "This is meta description"
 [params.banner]
 heading = "Thoughts, ideas and my work"
