@@ -1,12 +1,17 @@
 ---
 title: 'Open Banking in Australia: Hesitation Equals Failure'
-date: 2017-08-14T14:00:00+00:00
+date: 2017-08-14T14:00:00.000+00:00
 image: images/banking.jpeg
 author:
-- Dan Williams
-categories: []
-tags: []
-description: Australian Banks Should Build (APIs) Rather Than Baulk (At Open Banking).
+- Dan
+categories:
+- open banking
+tags:
+- open banking
+description: The open banking revolution seems to be gaining traction in Australia.
+  Treasurer, Scott Morrison, announced on July 20th that Australia’s banking sector
+  will come under review in a bid to figure out how the open banking regime should
+  work in practice by the end of this year.
 
 ---
 **Australian Banks Should Build (APIs) Rather Than Baulk (At Open Banking).**
