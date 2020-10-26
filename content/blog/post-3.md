@@ -1,11 +1,13 @@
 ---
 title: Uninstalling the Malware of Bureaucracy
-date: 2020-04-28T10:40:24+00:00
+date: 2020-04-28T10:40:24.000+00:00
 image: images/malware.png
 author:
 - Dan
-categories: []
-tags: []
+categories:
+- bureaucracy
+tags:
+- bureaucracy
 description: "“...We need to take on the apologists. Though few executives admit to
   being fans of bureaucracy, fewer still seem genuinely committed to killing it.”
   - Gary Hamel"
