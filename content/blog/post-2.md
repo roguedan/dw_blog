@@ -1,7 +1,7 @@
 ---
 title: 'They Call It a Royale with Cheese: What GDPR Means for Australia.'
 date: 2017-06-15T09:00:00+10:00
-image: images/Travolta_PulpFiction.jpg
+image: images/travolta_pulpfiction.jpg
 author:
 - Dan Williams
 categories: []
