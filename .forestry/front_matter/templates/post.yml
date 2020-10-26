@@ -25,5 +25,6 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/dear-apra-cloud-is-not-the-boogeyman.md
 - content/blog/new-data-breach-law-drives-australia-s-cyber-security-focus.md
 - content/blog/survival-of-the-millennial-friendly-bank-a-cio-s-guide-to-the-unknown-future.md
