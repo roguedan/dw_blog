@@ -3,7 +3,6 @@ author = ["Dan Williams"]
 categories = ["Australia", "Amazon"]
 date = 2017-02-07T13:00:00Z
 description = "Amazon’s rising power is clear from the raft of media coverage warning of Amazon’s Australian expansion plans, expected later this year. It has been reported that “Amazon is coming to Australia and wants to destroy Australian retailers”."
-draft = true
 image = "/images/amazon.jpg"
 tags = ["Australia", "Amazon"]
 title = "Amazon’s Australian retail launch – threat or opportunity?"
