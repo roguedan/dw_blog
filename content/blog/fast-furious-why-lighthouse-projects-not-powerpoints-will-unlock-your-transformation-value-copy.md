@@ -3,7 +3,6 @@ author = ["Dan Williams"]
 categories = ["transformation"]
 date = 2017-04-16T14:00:00Z
 description = "It used to take a Fortune 500 company around 20 years to reach a $1 billion valuation. Today’s startups are getting there much faster: Google did it in eight years, and the likes of Uber, Snapchat and Xiaomi in four years or less, partly through successfully harnessing digital technology."
-draft = true
 image = "/images/lighthouse.jpg"
 tags = ["transformation"]
 title = "Fast & Furious: Why Lighthouse Projects, Not PowerPoints, Will Unlock Your Transformation Value-(copy)"
