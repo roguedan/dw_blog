@@ -35,7 +35,7 @@ description = "This is meta description"
 heading = "Thoughts, ideas and work"
 image = ""
 [params.blog]
-heading = "Hi I'm Dan, welcome to my blog. "
+heading = "A personal blog about innovation, technology and cloud"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
