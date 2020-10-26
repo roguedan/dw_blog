@@ -1,7 +1,7 @@
 baseURL = "/"
 disableLanguages = []
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-93FNJ1X1J8"
 languageCode = "en-us"
 languageName = "En"
 paginate = "6"
