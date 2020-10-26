@@ -24,3 +24,5 @@ fields:
   name: description
   label: description
   description: Meta description
+pages:
+- content/blog/survival-of-the-millennial-friendly-bank-a-cio-s-guide-to-the-unknown-future.md
