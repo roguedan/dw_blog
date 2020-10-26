@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: This is meta description
+description: ''
 menu:
   desktop:
     URL: "/blog"
