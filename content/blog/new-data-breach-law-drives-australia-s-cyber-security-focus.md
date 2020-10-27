@@ -3,7 +3,7 @@ author = ["Dan Williams"]
 categories = ["data"]
 date = 2017-02-11T13:00:00Z
 description = "A new mandatory data breach notification law has come to Australia. Effective in early 2018, if not sooner, the new law will require businesses to notify serious data breach incidents to the Australian Information Commissioner and customers whose data has been compromised. This should place cybercrime high on Australian boards’ agendas and drive the revamping of existing cyber security systems."
-image = "/images/pipe.jpg"
+image = "/images/databreach.jpg"
 tags = ["data"]
 title = "New data breach law drives Australia’s cyber security focus"
 
