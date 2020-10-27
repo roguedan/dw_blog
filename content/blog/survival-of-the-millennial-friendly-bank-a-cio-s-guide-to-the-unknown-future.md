@@ -3,7 +3,7 @@ author = ["Dan Williams"]
 categories = ["Millennials "]
 date = 2017-04-02T14:00:00Z
 description = "Millennials are the largest generation alive, currently making up more than 5 million people in Australia (over 20% of the population). [1] By 2025, they will account for 33% of the Australian workforce. Millennials (those born between 1980-2000) are about to move into their prime working and spending years and poised to reshape the Australian and global economy"
-image = "/images/millennial.jpg"
+image = "/images/millenial.jpg"
 tags = ["Millennials "]
 title = "Survival of the Millennial Friendly Bank - A CIO's Guide to the Unknown Future"
 
